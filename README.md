@@ -1,1 +1,1 @@
-# methods-of-knowledge-engineering
+# A repository for the subject Methods of Knowledge Engineering
